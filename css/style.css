@@ -1,0 +1,18 @@
+.ssi-social-icons,
+.ssi-social-icons-shortcode {
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.ssi-icon {
+    font-size: 24px;
+    margin-right: 10px;
+    transition: color 0.3s ease;
+}
+
+.ssi-icon:hover {
+
+}
+
+/* Estilos adicionales según necesidades */
