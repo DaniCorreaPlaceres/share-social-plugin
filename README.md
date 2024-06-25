@@ -38,4 +38,4 @@ Este plugin es de código abierto y está disponible bajo la licencia [GPL-2.0+]
 
 ## Soporte
 
-Para obtener soporte adicional, contacta a [tu dirección de correo electrónico] o visita nuestro sitio web en [tu sitio web].
+Para obtener soporte adicional, visita mi sitio web en https://danicorrea.es.
